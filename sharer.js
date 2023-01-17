@@ -1,10 +1,10 @@
 /**
  * @preserve
- * Sharer.js
+ * Social-Sharer
  *
  * @description Create your own social share buttons
  * @version 0.5.1
- * @author Ellison Leao <ellisonleao@gmail.com>
+ * @author Vikrant <vikrantchaudhary7300@gmail.com>
  * @license MIT
  *
  */
